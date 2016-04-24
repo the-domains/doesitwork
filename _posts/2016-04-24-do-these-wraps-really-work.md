@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Do these wraps really work?
-datePublished: '2016-04-24T23:39:55.540Z'
-dateModified: '2016-04-24T23:39:35.740Z'
+datePublished: '2016-04-24T23:46:54.304Z'
+dateModified: '2016-04-24T23:40:00.283Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-do-these-wraps-really-work.md
