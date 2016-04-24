@@ -1,6 +1,6 @@
 name: doesItWork
 favicon: null
-layout_spectrum: 0.5942856047768146
+layout_spectrum: 1
 typography_spectrum: 0.20388374803587794
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.9879316692240536
+    - '#99cc33'
+    - '#ffffff'
+    - '#00ff00'
+    - '#808000'
+    - '#000000'
+  brandStrength: 1
   lightness: 0.4393611289560795
   saturation: 0.6858215355314314
   rhythmicContrast: 0.48311140039004385
